@@ -14,3 +14,5 @@ whose difference lies in whether it contains information such as subtypes.
 "Cancerous Pseudo-time for Interpreting the Evolution of Lung Adenocarcinoma.py" is the main code to obtain the patient quasi-potential landscape of LUAD. 
 The 3D figure of the landscape is drew by matlab"landscape3D.m". 
 The cancerous pseudo-time is calculated by "pseudo time.py".
+"oncogenetic paths.rar" contains all oncogenetic paths.
+"Modules_different_evolutionary_stage" contains all modules of different evolutionary stage.
