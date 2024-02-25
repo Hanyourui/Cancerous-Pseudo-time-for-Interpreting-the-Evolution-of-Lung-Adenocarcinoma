@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2023/11/27 17:30
 # @Author : Yourui Han
-# @File : Cancerous Pseudo-time for Interpreting the Evolution of Lung Adenocarcinoma.py
+# @File : Cancerous Time Estimation for Interpreting the Evolution of Lung Adenocarcinoma.py
 # @Software : PyCharm
 
 
