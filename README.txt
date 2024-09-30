@@ -13,6 +13,7 @@ Description
 
 "TCGA_LUAD_all_deg_sur_expr_info.xlsx" and "TCGA_LUAD_all_deg_sur_expr.xlsx" is the data of 560 samples' DESGs gene expression data from TCGA-LUAD, 
 whose difference lies in whether it contains information such as subtypes. 
+"Key_gene_mutation.xisx" is the data of 498 samples' somatic mutation data from TCGA-LUAD.
 "Cancerous Time Estimation for Interpreting the Evolution of Lung Adenocarcinoma.py" is the main code to obtain the patient quasi-potential landscape of LUAD. 
 The 3D figure of the landscape is drew by matlab"landscape3D.m". 
 The cancerous time is calculated by "cancerous time.py".
